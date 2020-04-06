@@ -1,5 +1,20 @@
-# full-stack-angular-java-todoapp
+Todo
+This project was generated with Angular CLI version 9.1.0. This Todo application have login page for user to login and add todo's, update and delete todo's based on there need. Have also created services for this todo list in seperate Java projects.
 
-# A Todo List App to Create, update, delete Todo's. Angular code in frontend module
+Development server
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-# Web services to call from angular services in restfull-webservice module.
+Code scaffolding
+Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
+
+Build
+Run ng build to build the project. The build artifacts will be stored in the dist/ directory. Use the --prod flag for a production build.
+
+Running unit tests
+Run ng test to execute the unit tests via Karma.
+
+Running end-to-end tests
+Run ng e2e to execute the end-to-end tests via Protractor.
+
+Further help
+To get more help on the Angular CLI use ng help or go check out the Angular CLI README.
